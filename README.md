@@ -14,9 +14,6 @@ Este projeto em Python calcula automaticamente a **data de migração** com base
 
 ---
 
-##
-
-
 # 📅 Migration Date Calculator
 
 This Python project automatically calculates the **migration date** based on the **denunciation request date**, following the 180-day rule and considering that migrations always occur on the **1st day of the month**.
